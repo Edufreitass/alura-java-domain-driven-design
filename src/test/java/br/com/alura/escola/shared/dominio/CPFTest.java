@@ -4,8 +4,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import br.com.alura.escola.academico.dominio.aluno.CPF;
-
 class CPFTest {
 
 	@Test
