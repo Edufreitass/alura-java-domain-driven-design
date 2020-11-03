@@ -1,4 +1,4 @@
-package br.com.alura.escola.academico.dominio;
+package br.com.alura.escola.shared.dominio.evento;
 
 // classe Genérica e Abstrata
 public abstract class Ouvinte {
