@@ -40,6 +40,4 @@ class TelefoneTest {
 		assertEquals(numero, telefone.getNumero());
 	}
 	
-	// TODO implementar o teste que nao permite que o aluno cadastra mais de 2 telefones
-	
 }
