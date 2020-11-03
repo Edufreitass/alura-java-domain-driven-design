@@ -5,8 +5,6 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import org.junit.jupiter.api.Test;
 
-import br.com.alura.escola.dominio.aluno.Telefone;
-
 class TelefoneTest {
 
 	@Test
@@ -41,5 +39,7 @@ class TelefoneTest {
 		assertEquals(ddd, telefone.getDdd());
 		assertEquals(numero, telefone.getNumero());
 	}
-
+	
+	// TODO implementar o teste que nao permite que o aluno cadastra mais de 2 telefones
+	
 }
